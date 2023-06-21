@@ -1,0 +1,46 @@
+body{
+    font-family: Verdana;
+    background-color: black;
+    text-align: center;
+}
+
+.header{    
+    font-size: 50px;
+    font-weight: normal;
+    color:white;
+    text-align: center;      
+}
+
+.downloadexcursion{
+    font-size: 16px;
+    font-weight: normal;
+    color:aquamarine; 
+    margin-top: 30px;   
+}
+
+.stylishtext{
+    font-weight: bold;
+    color:blue;
+}
+
+.frame{
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color:white;
+    background-color: lightcoral;
+    margin-top: 30px;
+    margin-bottom: 30px;
+
+}
+
+.paint{
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color:white;
+    background-color: skyblue;
+    margin-top: 30px;
+    margin-bottom: 30px;
+
+}
