@@ -18,29 +18,40 @@ body{
     margin-top: 30px;   
 }
 
-.stylishtext{
-    font-weight: bold;
-    color:blue;
+a:-webkit-any-link {
+    color:aquamarine; 
 }
 
-.frame{
-    font-family: Helvetica;
-    font-size: 32px;
-    font-weight: bold;
-    color:white;
-    background-color: lightcoral;
-    margin-top: 30px;
-    margin-bottom: 30px;
+.videoexcursion
+{
+    margin-top: 30px; 
 
 }
 
-.paint{
-    font-family: Helvetica;
-    font-size: 32px;
-    font-weight: bold;
+.mediumtext {
+    font-size: 42px;
+    font-weight: 300;
     color:white;
-    background-color: skyblue;
-    margin-top: 30px;
-    margin-bottom: 30px;
+    text-align: center; 
+    margin-top: 30px; 
+}
 
+.smalltext {
+    font-size: 21px;
+    font-weight: 300;
+    color:gray;
+    text-align: center; 
+    margin-top: 30px; 
+}
+
+.resimg {
+    margin-top: 20px;
+}
+
+.cprttext{
+    font-size: 21px;
+    font-weight: 300;
+    color:gray;
+    text-align: right; 
+    margin-top: 20px; 
 }
